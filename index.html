@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Stay updated with the latest current affairs. Search by topic, date, and more.">
+  <link rel="stylesheet" href="assets/css/styles.css">
+  <title>Current Affairs</title>
+  <link rel="icon" href="assets/img/icon.png" type="image/x-icon">
+</head>
+<body>
+  <header>
+    <nav class="navbar">
+      <a class="navbar-brand" href="#">Current Affairs for Banking exams</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <div id="search-bar">
+      <label for="search-input" class="visually-hidden">Search</label>
+      <input type="text" id="search-input" placeholder="Search..." aria-label="Search">
+    </div>
+    <div id="filters">
+      <label for="topic-filter" class="visually-hidden">Topic Filter</label>
+      <select id="topic-filter" aria-label="Topic Filter">
+        <option value="">All Topics</option>
+      </select>
+      <label for="date-filter" class="visually-hidden">Date Filter</label>
+      <input type="date" id="date-filter" aria-label="Date Filter">
+      <label for="month-filter" class="visually-hidden">Month Filter</label>
+      <select id="month-filter" aria-label="Month Filter">
+        <option value="">All Months</option>
+        <option value="1">January</option>
+        <option value="2">February</option>
+        <option value="3">March</option>
+        <option value="4">April</option>
+        <option value="5">May</option>
+        <option value="6">June</option>
+        <option value="7">July</option>
+        <option value="8">August</option>
+        <option value="9">September</option>
+        <option value="10">October</option>
+        <option value="11">November</option>
+        <option value="12">December</option>
+      </select>
+      <label for="week-filter" class="visually-hidden">Week Filter</label>
+      <select id="week-filter" aria-label="Week Filter">
+        <option value="">All Weeks</option>
+        <option value="1-7">1st Week (1-7)</option>
+        <option value="8-14">2nd Week (8-14)</option>
+        <option value="15-21">3rd Week (15-21)</option>
+        <option value="22-end">4th Week (22-end)</option>
+      </select>
+    </div>
+    <div id="articles"></div>
+  </main>
+
+  <footer class="footer">
+    <p>&copy; 2024. Designed and developed by Bishnutej</p>
+  </footer>
+
+  <script src="assets/js/script.js"></script>
+</body>
+</html>

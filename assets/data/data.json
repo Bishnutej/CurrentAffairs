@@ -1,4 +1,36 @@
-[
+[    
+    {
+      "date": "2024-07-03",
+      "topic": "",
+      "title": "",
+      "points": [
+        ""
+      ]
+    },
+    {
+      "date": "2024-07-03",
+      "topic": "",
+      "title": "",
+      "points": [
+        ""
+      ]
+    },
+    {
+      "date": "2024-07-03",
+      "topic": "",
+      "title": "",
+      "points": [
+        ""
+      ]
+    },
+    {
+      "date": "2024-07-03",
+      "topic": "",
+      "title": "",
+      "points": [
+        ""
+      ]
+    },
     {
       "date": "2024-07-02",
       "topic": "Banking & Finance",
@@ -358,213 +390,288 @@
     {
       "date": "2024-07-01",
       "topic": "Banking & Finance",
-      "title": "",
+      "title": "ICICI Prudential and HDFC Life get GST notices",
       "points": [
-        ""
+        "ICICI Prudential Life Insurance: GST notice of Rs. 365 crore, including interest. Demanded GST along with applicable interest and penalty for the fiscal years 2017-18 to 2022-23 for all GST-registered states.",
+        "HDFC Life Insurance: GST notice of Rs. 132 crore, with interest to be applied as applicable. The alleged violations include the wrongful deduction of amounts towards GST from commissions paid to insurance agents, which should have been deposited with the government."
       ]
     },
     {
       "date": "2024-07-01",
       "topic": "Banking & Finance",
-      "title": "",
+      "title": "RBI launches 'Finquiry' to allow fintechs directly engage with the regulator",
       "points": [
-        ""
+        "Launch of: Finquiry",
+        "Launched by: The Reserve Bank of India (RBI)",
+        "Aim: To allow fintechs directly engage with the regulator",
+        "An exclusive 2 hours window called 'Finquiry' for fintechs to visit the FinTech department of the RBI in Mumbai.",
+        "RBI has opened the window from 26th June ",
+        "This will be available on the last working Wednesday of every month from 3 to 5pm.",
+        "For inquiries and scheduling appointment, fintech representatives can reach out via email cgmfintech@rbi.org.in."
       ]
     },
     {
       "date": "2024-07-01",
       "topic": "Banking & Finance",
-      "title": "",
+      "title": "HDFC Life's 'Bridge the Gap' initiative to enhance life insurance awareness",
       "points": [
-        ""
+        "Launch of: Bridge the Gap",
+        "Launched by: HDFC Life",
+        "Aim: To elevate public awareness about life insurance.",
+        "HDFC Life has been actively promoting National Insurance Awareness Day, celebrated on 28th June, through various campaigns.",
+        "Life insurance penetration in India is strikingly low at only 3.2%, with a substantial protection gap of about 91%.",
+        "This effort supports the Insurance Regulatory and Development Authority of India’s (IRDAI) goal of achieving ‘Insurance for All’ by 2047."
       ]
     },
     {
       "date": "2024-07-01",
       "topic": "Banking & Finance",
-      "title": "",
+      "title": "Japan To Launch New Banknotes On July 3",
       "points": [
-        ""
+        "Japan will start issuing new banknotes on the 3rd of July 2024.",
+        "It is the world’s first use of cutting-edge holography that makes the portraits of historic figures appear to rotate in 3D, as per the reports.",
+        "This new technology will allow visually impaired people to feel and discern which banknote they are holding.",
+        "Tactile marks for the visually impaired will also make them recognizable to touch.",
+        "Note: Existing banknotes will remain valid after the introduction of the new banknotes."
+      ]
+      
+    },
+    {
+      "date": "2024-07-01",
+      "topic": "International",
+      "title": "Indian High Commission Launched ‘One Tree4Mother’ Campaign In Bangladesh",
+      "points": [
+        "Launch of: ‘One Tree4Mother’ Campaign",
+        "Launched by: Indian High Commission",
+        "Launched in: Bangladesh",
+        "Campaign inspired by Prime Narendra Narendra Modi who launched the ‘Ek Ped Maa Ke Naam’ Campaign on World Environment Day 2024 in New Delhi.",
+        "High Commissioner of India to Bangladesh: Pranay Verma"
       ]
     },
     {
       "date": "2024-07-01",
-      "topic": "",
-      "title": "",
+      "topic": "International",
+      "title": "Titan To Set Up Tanishq’s Factory In Bangladesh",
       "points": [
-        ""
+        "Titan has decided to set up a factory in Narayanganj, near Dhaka, Bangaldesh.",
+        "Joint venture with a local enterprise named Rhythm Group",
+        "Reason of JV: To manufacture and market products in Bangladesh for its flagship jewellery brand Tanishq",
+        "They plan to open five Tanishq jewellery outlets in Dhaka shortly after establishing the manufacturing facility in the economic zone"
       ]
     },
     {
       "date": "2024-07-01",
-      "topic": "",
-      "title": "",
+      "topic": "National",
+      "title": "MoSPI Launches eSankhyiki Portal",
       "points": [
-        ""
+        "Launch of: eSankhyiki Portal",
+        "Launched by: Ministry of Statistics and Programme Implementation (MoSPI)",
+        "Reason: For integrated development of the national statistical system in the country in tune with the global statistical practices and data dissemination standards",
+        "It will provide real-time inputs for planners, policy-makers, researchers and the public at large.",
+        "Aim: To establish a comprehensive data management and sharing system for ease of dissemination of official statistics in the country"
       ]
     },
     {
       "date": "2024-07-01",
-      "topic": "",
-      "title": "",
+      "topic": "National",
+      "title": "EPFO gross new members addition dips 4% to 10.9 mn in 2023-24: MoSPI report",
       "points": [
-        ""
+        "Report title: 'Payroll Reporting in India: An Employment Perspective January to April, 2024'",
+        "Report by: Ministry of Statistics & Programme Implementation",
+        "Findings: ",
+        "EPFO's gross new subscribers addition declined by over 4% to 10.9 million in 2023-24 compared to a year ago",
+        "EPFO recorded 10,993,119 gross addition of new members in 2023-24 compared to 11,498,453 in 2022-23."
       ]
     },
     {
       "date": "2024-07-01",
-      "topic": "",
-      "title": "",
+      "topic": "National",
+      "title": "Govt to launch campaign for redressal of family pensioners' grievances",
       "points": [
-        ""
+        "Launch of: Redressal of family pensioners' grievances campaign",
+        "Launched by: Union Minister of State for Personnel Jitendra Singh",
+        "Data: Presently, around 90,000 cases are being registered on an online Centralised Pension Grievance and Redress System (CPENGRAMS) in a year.",
+        "The Department of Pension and Pensioners' Welfare (DOPPW), as part of its 100 days action plan will be undertaking a month-long special campaign for effective redressal of family pensioners' grievances during the period July 1-31, 2024 in which 46 ministries/departments will be participating.",
+        "The grievances can be registered either directly or on the portal --www.pgportal.gov.in/PENSION/ by the applicant or by DOPPW on receipt of details through e-mail, post or toll-free number 1800-11-1960."
       ]
     },
     {
       "date": "2024-07-01",
-      "topic": "",
-      "title": "",
+      "topic": "National",
+      "title": "New portal to expedite agri infra fund interest subsidy claims of farmers",
       "points": [
-        ""
+        "Launch of: Web portal and Krishi Katha",
+        "Launched by: Union minister for agriculture and farmers’ welfare Shivraj Singh Chouhan",
+        "Web Portal:",
+        "Aim: Faster bank settlements of interest subsidy claims under the Agriculture Infrastructure Fund (AIF)",
+        "Developed by: Department of Agriculture and Farmers’ Welfare (DA&FW) and the National Bank for Agriculture and Rural Development (Nabard)",
+        "Automated system will help in calculating accurate eligible interest subvention through the portal.",
+        "Avoid possible human error in manual processing",
+        "About AIF scheme:",
+        "Launched in: 2020",
+        "Objective: To develope post-harvest management infrastructure to reduce losses, realise better value for farmers, foster innovation in agriculture, and attract investments for agricultural infrastructure.",
+        "Total outlay: Rs 1 trillion funding through banks and financial institutions up to 2025-26",
+        "3 per cent interest subsidy to beneficiaries for loans given by banks of up to Rs 2 crore for a maximum period of 7 years.",
+        "Krishi Katha:",
+        "A blog to serve as a digital platform to showcase the voices of Indian farmers.",
+        "It is dedicated to amplifying the experiences, insights, and success stories of farmers across the country"
       ]
     },
     {
       "date": "2024-07-01",
-      "topic": "",
-      "title": "",
+      "topic": "Defence",
+      "title": "Thales Inks Pact With Adani Defence To Manufacture 70mm Rockets In India",
       "points": [
-        ""
+        "Signed between: Adani Defence & Aerospace and Thales Group ",
+        "Contract: To manufacture 70mm rockets locally",
+        "This strategic collaboration aligns with the Indian government’s “Make in India” initiative, aiming to enhance self-reliance in defence production.",
+        "Thales Group is a French multinational company that designs, develops and manufactures electrical systems as well as devices and equipment for the aerospace, defence, transportation and security sectors."
       ]
     },
     {
       "date": "2024-07-01",
-      "topic": "",
-      "title": "",
+      "topic": "Defence",
+      "title": "Karnataka Based Udupi Cochin Shipyard Ltd Bags Order Worth 1100 Crore Rupees From Norwegian Company",
       "points": [
-        ""
+        "Karnataka based Udupi Cochin Shipyard Ltd, a wholly owned subsidiary of Cochin Shipyard Ltd, has bagged an order worth 1100 crore rupees from a Norwegian company for the design and construction of eight dry cargo vessels.",
+        "Each vessel, with 100 meters length, will have a deadweight of 6300 metric tonnes. It will be an environment friendly diesel-electric vessel, and will be utlised for the transport of general cargo in the coastal waters of Europe.",
+        "As per the agreement, the order should be executed within September 2028."
       ]
     },
     {
       "date": "2024-07-01",
-      "topic": "",
-      "title": "",
+      "topic": "Defence",
+      "title": "Bangladesh Navy Signs Contract For ‘Made In India’ 800 Tons Ocean Going Tug With India’s GRSE",
       "points": [
-        ""
+        "Bangladesh Navy signed a contract for ‘Made in India’ 800 tons Ocean Going Tug with India’s Garden Reach Shipbuilding and Engineers.",
+        "The signing coincides with the visit of India’s Chief of Naval Staff Admiral Dinesh K Tripathi to Bangladesh."
       ]
     },
     {
       "date": "2024-07-01",
-      "topic": "",
-      "title": "",
+      "topic": "MoUs",
+      "title": "NFSU And Haryana Govt. Sign An MoU To Establish A Centre Of Excellence In Panchkula",
       "points": [
-        ""
+        "An MoU for setting up the Centre of Excellence for matters related to identified crime cases was signed between National Forensic Science University (NFSU) and Haryana Government at Panchkula, Haryana.",
+        "A 50-acre campus will be built in Panchkula, Haryana in collaboration with NFSU.",
+        "It will be the country’s first Center of Excellence which will be built in the state."
       ]
     },
     {
       "date": "2024-07-01",
-      "topic": "",
-      "title": "",
+      "topic": "States",
+      "title": "Uttar Pradesh to Establish Rs 2000 Crore Bioplastic Park",
       "points": [
-        ""
+        "Uttar Pradesh’s government, led by Chief Minister Yogi Adityanath, has made it official that a bioplastic park will be built in the Lakhimpur Kheri area.",
+        "The idea comes about because more and more people are worried about how plastics made from petroleum hurt the environment.",
+        "The park is in Kumbhi village, Gola Gokarnnath tehsil, and covers 1000 hectares.",
+        "It will be developed quickly with an investment of around Rs 2 billion."
       ]
     },
     {
       "date": "2024-07-01",
-      "topic": "",
-      "title": "",
+      "topic": "Important Dates",
+      "title": "International Day of Parliamentarism 2024 Observed on June 30th",
       "points": [
-        ""
+        "In 2024, the focus is on “Parliamentary diplomacy: Building bridges for peace and understanding.” ",
+        "This theme emphasizes how parliamentarians can contribute to international cooperation and conflict resolution."
       ]
     },
     {
       "date": "2024-07-01",
-      "topic": "",
-      "title": "",
+      "topic": "Important Dates",
+      "title": "International Day of the Tropics 2024",
       "points": [
-        ""
+        "The International Day of the Tropics, observed annually on June 29, is a day dedicated to recognizing the incredible diversity and importance of the world's tropical regions."
       ]
     },
     {
       "date": "2024-07-01",
-      "topic": "",
-      "title": "",
+      "topic": "Important Dates",
+      "title": "International Asteroid Day 2024 is Observed on 30th June",
       "points": [
-        ""
+        "International Asteroid Day is observed on June 30th each year.",
+        "It aims to increase public awareness about the potential dangers of asteroids and other near-Earth objects (NEOs).",
+        "The United Nations officially recognized this day in December 2016."
       ]
     },
     {
       "date": "2024-07-01",
-      "topic": "",
-      "title": "",
+      "topic": "Important Dates",
+      "title": "National Statistics Day 2024",
       "points": [
-        ""
+        "National Statistics Day is celebrated in India every year on June 29th.",
+        "This day honors the birth anniversary of Professor Prasanta Chandra Mahalanobis, a renowned statistician and economist.",
+        "For the 18th National Statistics Day in 2024, the theme is “Use of data for decisionmaking”."
       ]
     },
     {
       "date": "2024-07-01",
-      "topic": "",
-      "title": "",
+      "topic": "Appointments",
+      "title": "General Upendra Dwivedi Takes Charge As Indian Army",
       "points": [
-        ""
+        "General Upendra Dwivedi has taken over as the Chief of the Army Staff (COAS) from General Manoj Pande, who took charge in May 2022."
       ]
     },
     {
       "date": "2024-07-01",
-      "topic": "",
-      "title": "",
+      "topic": "Appointments",
+      "title": "Sujata Saunik becomes first woman to be appointed as Maharashtra chief secretary",
       "points": [
-        ""
+        "Senior IAS officer Sujata Saunik on Sunday took over as Maharashtra's Chief Secretary, becoming the first woman in the state's 64- year-old history to occupy the top post."
       ]
     },
     {
       "date": "2024-07-01",
-      "topic": "",
-      "title": "",
+      "topic": "Appointments",
+      "title": "CS Setty gets FSIB approval to head SBI as next chairman",
       "points": [
-        ""
+        "Challa Sreenivasulu Setty has been selected as the next chairman of the State Bank of India (SBI) by the Financial Services Institution Bureau (FSIB). ",
+        "Setty, who has worked at SBI for 35 years, will succeed current chairman Dinesh Khara, who will end his term on August 28."
       ]
     },
     {
       "date": "2024-07-01",
-      "topic": "",
-      "title": "",
+      "topic": "Book & Author",
+      "title": "PM Modi Releases Three Books On Life And Journey Of Former VP Venkaiah Naidu",
       "points": [
-        ""
+        "Prime Minister Narendra Modi released three books on the life and journey of former Vice President M. Venkaiah Naidu on the eve of his 75th birthday via video conferencing"
       ]
     },
     {
       "date": "2024-07-01",
-      "topic": "",
-      "title": "",
+      "topic": "Science & Technology",
+      "title": "SpaceX Wins $843-Million NASA Contract to Destroy the International Space Station",
       "points": [
-        ""
+        "NASA has awarded SpaceX an $843 million contract to construct a spacecraft aimed at safely deorbiting the International Space Station (ISS) by around 2030.",
+        "While SpaceX will build the vehicle, NASA will oversee its operation and take ownership of the craft once completed.",
+        "The ISS will smash into our planet’s atmosphere at a speed of more than 17,000 mph (27,500 km/h) before landing in a crashdown spot in the ocean.",
+        "The floating laboratory’s first parts were launched in 1998, and it has been occupied by astronauts from the U.S., Japan, Russia, Canada and Europe since 2000.",
+        "Weighing approximately 430,000 kilograms (950,000 pounds)"
       ]
     },
     {
       "date": "2024-07-01",
-      "topic": "",
-      "title": "",
+      "topic": "Sports",
+      "title": "BCCI announces Rs 125 crore prize money for Indian team for T20 WC triumph",
       "points": [
-        ""
+        "T20 2024 winner: India",
+        "Defeated: South Africa",
+        "Defeated by: 7 runs",
+        "Location: Bridgetown, Barbados  BCCI secretary Jay Shah announced a prize money of Rs 125 crore for the Indian team"
       ]
     },
     {
       "date": "2024-07-01",
-      "topic": "",
-      "title": "",
+      "topic": "Sports",
+      "title": "Global Chess League to Hold Second Edition in London in October",
       "points": [
-        ""
+        "The highly anticipated second edition of Tech Mahindra Global Chess League will take place in London, England from 3rd to 12th October 2024.",
+        "It will take place at Friends House in central London."
       ]
     },
     {
-      "date": "2024-07-01",
-      "topic": "",
-      "title": "",
-      "points": [
-        ""
-      ]
-    },
-    {
-      "date": "2024-07-01",
+      "date": "2024-07-03",
       "topic": "",
       "title": "",
       "points": [

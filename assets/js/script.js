@@ -53,13 +53,27 @@ document.addEventListener('DOMContentLoaded', function() {
         <div class="card-body">
           <h5 class="card-title">${article.title}</h5>
           <h6 class="card-subtitle mb-2 text-muted">${article.date} - ${article.topic}</h6>
-          <ul class="card-text">
-            ${article.points.map(point => `<li>${point}</li>`).join('')}
-          </ul>
+          ${formatPoints(article.points)}
         </div>
       `;
       articlesDiv.appendChild(articleDiv);
     });
+  }
+
+  function formatPoints(points) {
+    const ul = document.createElement('ul');
+    points.forEach(point => {
+      const li = document.createElement('li');
+      if (typeof point === 'string') {
+        li.textContent = point;
+      } else if (typeof point === 'object') {
+        for (const [key, value] of Object.entries(point)) {
+          li.innerHTML = `${key}: ${value}`;
+        }
+      }
+      ul.appendChild(li);
+    });
+    return ul.outerHTML;
   }
 
   function populateTopics(data) {
@@ -79,7 +93,11 @@ document.addEventListener('DOMContentLoaded', function() {
       const matchesMonth = monthFilter.value ? new Date(article.date).getMonth() + 1 == monthFilter.value : true;
       const matchesWeek = weekFilter.value ? checkWeek(article.date, weekFilter.value) : true;
       const matchesSearch = article.title.toLowerCase().includes(searchInput.value.toLowerCase()) || 
-                            article.points.some(point => point.toLowerCase().includes(searchInput.value.toLowerCase()));
+                            article.points.some(point => 
+                              typeof point === 'string' 
+                                ? point.toLowerCase().includes(searchInput.value.toLowerCase())
+                                : Object.values(point).some(subPoint => subPoint.toLowerCase().includes(searchInput.value.toLowerCase()))
+                            );
       return matchesTopic && matchesDate && matchesMonth && matchesWeek && matchesSearch;
     });
 

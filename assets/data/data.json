@@ -1,6 +1,30 @@
 [    
     {
-      "date": "2024-07-03",
+      "date": "2024-07-04",
+      "topic": "",
+      "title": "",
+      "points": [
+        ""
+      ]
+    },
+    {
+      "date": "2024-07-04",
+      "topic": "",
+      "title": "",
+      "points": [
+        ""
+      ]
+    },
+    {
+      "date": "2024-07-04",
+      "topic": "",
+      "title": "",
+      "points": [
+        ""
+      ]
+    },
+    {
+      "date": "2024-07-04",
       "topic": "",
       "title": "",
       "points": [
@@ -9,26 +33,330 @@
     },
     {
       "date": "2024-07-03",
-      "topic": "",
-      "title": "",
+      "topic": "Banking & Finance",
+      "title": "RBI keeps floating rate savings bond interest rate for July-Dec at 8.05%",
+      "points": [
+        "Floating rate savings bond interest rate for July -Dec 2024: 8.05%",
+        "Effective from July 1, 2024",
+        "What is RBI Floating Rate Savings Bond?",
+        "The RBI Floating Rate Savings Bonds 2020 (Taxable) are a type of government bond that offers a floating interest rate.",
+        "Its key features are:",
+        "They have a seven-year lock-in period.",
+        "The interest rate on these bonds is reset twice a year, with investors receiving interest payments semi-annually on January 1 and July 1.",
+        "Minimum subscription: Rs 1,000 and in multiples of Rs 1,000, thereafter.",
+        "Maximum investment limit: No",
+        "Taxable",
+        "Premature withdrawal - Not allowed, except for senior citizens who can withdraw early with a penalty after a minimum lock-in period.",
+        "Lock-in period: Depends on age - six years for those aged 60 to 70, five years for those aged 70 to 80, and four years for those over 80."
+      ]
+    },
+    {
+      "date": "2024-07-03",
+      "topic": "Banking & Finance",
+      "title": "Narayana Health Insurance launches its first insurance product 'Aditi'",
+      "points": [
+        "Launch of: Aditi (insurance product)",
+        "Launched by: Narayana Health Insurance",
+        "Note: Narayana Health Insurance Ltd. (NHIL), a new venture by Bengaluru-based hospital chain Narayana Health",
+        "Aim: To bridge the gap in healthcare access for the masses in India by offering comprehensive coverage at an affordable price point",
+        "Premium: Rs 10,000 annually",
+        "Offer:",
+        "Comprehensive coverage with a sum assured of Rs 1 crore for surgeries",
+        "Rs 5 lakh for medical management at Narayana Health network hospitals"
+      ]
+    },
+    {
+      "date": "2024-07-03",
+      "topic": "Banking & Finance",
+      "title": "Bajaj Housing Finance launches Sambhav Home Loans",
+      "points": [
+        "Launch of: Sambhav Home Loans",
+        "Launched by: Bajaj Housing Finance",
+        "Target people: First-time home buyers",
+        "Aim: To make accessible option for prospective borrowers across a wide range of income groups.",
+        "Income norm: starts from Rs. 10,000 per month, with loan amounts as low as Rs. 10 lakh",
+        "Who can apply?",
+        "Both salaried and self-employed applicants from a range of employment types including from the informal sector are eligible for finance as part of this product.",
+        "Borrowers will have attractive interest rates with affordable EMIs and the option to choose a repayment tenor of up to 20 years."
+      ]
+    },
+    {
+      "date": "2024-07-03",
+      "topic": "Banking & Finance",
+      "title": "ICICI Bank launches Sapphiro Forex Card for Indian students",
+      "points": [
+        "Launch of: Sapphiro Forex Card",
+        "Launched by: ICICI Bank",
+        "Target user: Indian Students, pursuing higher education abroad",
+        "Premium prepaid forex card",
+        "Powered by: Visa",
+        "Aim: To make overseas financial management simpler for students and their parents",
+        "Benefits of the card",
+        "The Student Sapphiro Forex Card offers joining benefits worth up to Rs 15,000. These include:",
+        "Free access to two international airport lounges worldwide, valued at $99.",
+        "Free international SIM card",
+        "Complimentary Uber vouchers worth Rs 1,000.",
+        "Membership for the International Student Identity Card (ISIC), valued at Rs 999 and recognised in 130 countries.",
+        "Complimentary card protection plus plan (includes lost card/counterfeit card insurance up to Rs 5 lakh)",
+        "ATM fee waiver: Three monthly ATM fee waivers on cash withdrawals for five years.",
+        "No mark-up charges: On any cross-currency transaction."
+      ]
+    },
+    {
+      "date": "2024-07-03",
+      "topic": "Banking & Finance",
+      "title": "Growth in private corporate sector sales moderates to 4.7% in FY24: RBI",
+      "points": [
+        "Data by: RBI",
+        "Data released on: Performance of the private corporate sector during 2023-24",
+        "Annual sales growth of listed private nonfinancial companies moderated to 4.7% during 2023-24.",
+        "Among major sectors:",
+        "Sales of manufacturing: 3.5 per cent (Growth)",
+        "Information technology (IT): 5.5 per cent (Growth)",
+        "Non-IT services: 7.9 per cent ",
+        "Note:",
+        "Sales of automobiles, electrical machinery and pharmaceuticals industries remained buoyant.",
+        "The manufacturing sectors overall performance was mainly dragged by chemicals and petroleum industries; barring computer & electronic equipments and pharmaceuticals, all sub-sectors recorded deceleration in sales growth."
+      ]
+    },
+    {
+      "date": "2024-07-03",
+      "topic": "Banking & Finance",
+      "title": "DBS Bank India launches pre-shipment financing for MSMEs on RBI’s TReDS",
+      "points": [
+        "Joined hands: DBS Bank (India) and Receivables Exchange of India Limited (RXIL), TReDS",
+        "Reason: Pre-shipment financing solution for MSMEs on the invoice discounting system TReDS",
+        "DBS Bank India already offers post-shipment finance for MSMEs on the RBI-backed TReDS platform.",
+        "RXIL is a joint venture of SIDBI, NSE along with State Bank of India, ICICI Bank, and Yes Bank."
+      ]
+    },
+    {
+      "date": "2024-07-03",
+      "topic": "Banking & Finance",
+      "title": "Axis Bank and Piramal Finance join hands under co-lending business",
+      "points": [
+        "Signed between: Axis Bank and Piramal Finance",
+        "Type: Co-lending agreement",
+        "Aim: To cater to customers in the unorganized sector, including self-employed or salaried borrowers who have limited access to credit due to the lack of sufficient income proofs.",
+        "Both lenders will offer loans to the middle and low-income segment borrowers with focus on rural and semi-urban regions."
+      ]
+    },
+    {
+      "date": "2024-07-03",
+      "topic": "International",
+      "title": "EAM Dr. S. Jaishankar To Lead Indian Delegation At SCO Summit 2024",
+      "points": [
+        "SCO Summit 2024:",
+        "Location: Astana, Kazakhstan",
+        "Date: 4th July 2024",
+        "India's delegation led by: EAM Dr. S. Jaishankar",
+        "Note: 24th Meeting of the SCO Council of Heads of State will be under the presidency of Kazakhstan.",
+        "India, under its first-ever presidency of SCO, hosted the 23rd Meeting of the SCO Council of Heads of State on 4th July last year in a virtual format.",
+        "India’s priorities in SCO are shaped by Prime Minister’s vision of a ‘SECURE’ SCO. SECURE stands for Security, Economic cooperation, Connectivity, Unity, Respect for sovereignty and territorial integrity, and Environmental protection."
+      ]
+    },
+    {
+      "date": "2024-07-03",
+      "topic": "National",
+      "title": "Union Minister Ashwini Vaishnaw To Inaugurate Global India AI Summit 2024",
+      "points": [
+        "Global India AI Summit 2024",
+        "Inaugurate by: Minister of Electronics and IT Ashwini Vaishnaw",
+        "Location: New Delhi, India",
+        "Date July 3, 2024",
+        "Feature:",
+        "A diverse array of sessions designed to delve deep into critical aspects of AI application, governance and for nurturing talent and scaling AI innovations.",
+        "International delegates, AI experts, and policymakers will participate in the summit."
+      ]
+    },
+    {
+      "date": "2024-07-03",
+      "topic": "National",
+      "title": "New Tourism And ODOP Walls Unveiled At Indian Embassy In Bahrain",
+      "points": [
+        "Unveiled: New Tourism And ODOP Walls",
+        "Location: Indian Embassy, Bahrain",
+        "Aim: To promote Indian cultural diversity and regional products",
+        "The Indian Embassy in Bahrain has inaugurated new Odisha State Tourism and One District One Product (ODOP) walls in its Consular hall.",
+        "The initiative is part of the Embassy’s ‘focus state/union territory’ program",
+        "Odisha is the fifth state to be featured, following Rajasthan, Kashmir, Uttar Pradesh, and Karnataka."
+      ]
+    },
+    {
+      "date": "2024-07-03",
+      "topic": "National",
+      "title": "Air India to Set Up South Asia’s Largest Flight Training School in Amravati",
+      "points": [
+        "Air India is establishing South Asia’s largest flight training school.",
+        "Location: Amravati district, Maharashtra",
+        "Investment: Over ₹200 crore",
+        "Scheduled to open in the first quarter of the next financial year",
+        "Aim: To secure a steady pipeline of pilots for the airline",
+        "It will require 500-700 pilots annually to support its expansion plans following a mega order of 470 Airbus and Boeing aircraft in 2023."
+      ]
+    },
+    {
+      "date": "2024-07-03",
+      "topic": "National",
+      "title": "India Becomes First Nation To Prepare Full List of Fauna",
+      "points": [
+        "Launch of: Fauna of India Checklist Portal",
+        "Launched by: Union environment minister Bhupender Yadav.",
+        "Occasion: 109th Foundation Day of the Zoological Survey of India (ZSI)",
+        "Location: Kolkata, India",
+        "Note: India has become the first country in the world to prepare a checklist of its entire fauna, covering 104,561 species.",
+        "Bird species in India:",
+        "Among the 1,358 bird species present in India, there are 79 that are endemic, meaning they are found nowhere else in the world.",
+        "The Western Ghats Bio-geographic zone has the highest number of these species at 28, followed by the Andaman and Nicobar Islands"
+      ]
+    },
+    {
+      "date": "2024-07-03",
+      "topic": "Defence",
+      "title": "Indian Army Contingent Departs For 13th Edition Of India-Thailand Joint Military Exercise MAITREE",
+      "points": [
+        "Name of exercise: MAITREE",
+        "Between: India- Thailand",
+        "Edition: 13th",
+        "Location: Fort Vachiraprakan in Tak Province of Thailand.",
+        "Date: 1st to 15th of July",
+        "Indian Army contingent:",
+        "Comprising 76 personnel",
+        "Represented by: Battalion of the Ladakh Scouts along with personnel from other arms and services.",
+        "Royal Thailand Army:",
+        "Contingent also comprises 76 personnel",
+        "Represented by: 1st Battalion, 14 Infantry Regiment of 4 Division"
+      ]
+    },
+    {
+      "date": "2024-07-03",
+      "topic": "Defence",
+      "title": "16th “Nomadic Elephant” Joint Military Exercise",
+      "points": [
+        "Name of exercise: Nomadic Elephant",
+        "Between: India and Mongolia",
+        "Edition: 16th",
+        "Location: Umroi, Meghalaya",
+        "Date: July 3, 2024, to July 16, 2024",
+        "Aim: To improve the two forces’ ability to work together and communicate during semi-normal operations in semi-urban and mountainous areas, as directed by the UN."
+      ]
+    },
+    {
+      "date": "2024-07-03",
+      "topic": "States",
+      "title": "Tamil Nadu Govt passes Bill to combat illicit liquor with stiffer penalties",
+      "points": [
+        "Bill amended by: Tamil Nadu government  Amendment: Tamil Nadu Prohibition Act, 1937",
+        "Aim: To enhance the punishment term and quantum of fine for offences like manufacturing, possessing and selling illicit liquor that endangers lives.",
+        "The amendment follows the Kallakurichi hooch tragedy, substantially enhances the term of imprisonment and quantum of fine for various offences under sections 4,5,6,7, and 11 of the Act.",
+        "Maximum punishment of 10 years’ Rigorous Imprisonment and a penalty of up to ₹5 lakhs"
+      ]
+    },
+    {
+      "date": "2024-07-03",
+      "topic": "States",
+      "title": "TN House passes Bill increasing age limit of chief of SC/ST commission",
+      "points": [
+        "The Tamil Nadu Assembly approved an amendment to the State Commission for the Scheduled Castes and Scheduled Tribes Act, enhancing the age limit for the Chief of the Commission from 70 to 75 years."
+      ]
+    },
+    {
+      "date": "2024-07-03",
+      "topic": "States",
+      "title": "Jharkhand Celebrates Hul Diwas",
+      "points": [
+        "Hul Kranti Diwas is celebrated on June 30 every year to mark the independence movement of 1855 led by tribal heroes Sidho, Kanho, Chand, Bhairav, among others."
+      ]
+    },
+    {
+      "date": "2024-07-03",
+      "topic": "Important Dates",
+      "title": "World UFO day 2024",
+      "points": [
+        "Date: July 2",
+        "This special day is all about learning more about Unidentified Flying Objects (UFOs).",
+        "It was first celebrated on June 24",
+        "This date was chosen because of a famous UFO sighting by Kenneth Arnold in 1947",
+        "Later, the date was changed to July 2",
+        "July 2 marks the anniversary of the Roswell incident in 1947"
+      ]
+    },
+    {
+      "date": "2024-07-03",
+      "topic": "Important Dates",
+      "title": "World Sports Journalists Day 2024",
+      "points": [
+        "Date: July 2",
+        "Aim: To honour those who bring sports stories to life – the sports journalists"
+      ]
+    },
+    {
+      "date": "2024-07-03",
+      "topic": "Appointments",
+      "title": "New CGM and CMD Take Charge at PGCIL",
+      "points": [
+        "Akhilesh Pathak has become the new Chief General Manager of the Southern Region Transmission System-I (SRTS-I) of Power Grid Corporation of India Ltd (PGCIL), overseeing operations in Telangana."
+      ]
+    },
+    {
+      "date": "2024-07-03",
+      "topic": "Appointments",
+      "title": "Rushabh Gandhi Takes Charge as the MD CEO of IndiaFirst Life",
+      "points": [
+        "Rushabh Gandhi takes charge as the Managing Director and Chief Executive Officer (MD & CEO) of IndiaFirst Life Insurance Company Limited (IndiaFirst Life), effective from July 01, 2024.",
+        "Rushabh was previously the Deputy CEO of IndiaFirst Life."
+      ]
+    },
+    {
+      "date": "2024-07-03",
+      "topic": "Appointments",
+      "title": "SARS Commissioner re-elected chairperson of World Customs Organisation",
+      "points": [
+        "The highest decision-making body of the World Customs Organisation, the WCO Council, has re-elected SARS Commissioner Edward Kieswetter as the WCO Chairperson for a second term, 2024 – 2025"
+      ]
+    },
+    {
+      "date": "2024-07-03",
+      "topic": "Appointments",
+      "title": "SBI General Insurance appoints Naveen Chandra Jha as its new MD & CEO",
+      "points": [
+        "SBI General Insurance Company announced the appointment of Naveen Chandra Jha as its new Managing Director and Chief Executive Officer.",
+        "He was nominated by the parent company, State Bank of India, for the position. He succeeds Kishore Kumar Poludasu."
+      ]
+    },
+    {
+      "date": "2024-07-03",
+      "topic": "Science & Technology",
+      "title": "Japan's H3 Rocket Launches ALOS-4 Satellite",
       "points": [
         ""
       ]
     },
     {
       "date": "2024-07-03",
-      "topic": "",
-      "title": "",
+      "topic": "Science & Technology",
+      "title": "SERA and Blue Origin Announce India as Partner Nation for Human Spaceflight Program",
       "points": [
-        ""
+        "Space Exploration and Research Agency (SERA) and Blue Origin have designated India as a partner nation in their human spaceflight initiative, inviting Indian citizens to participate in a historic opportunity.",
+        "The program offers six seats aboard Blue Origin’s New Shepard rocket, taking participants on an 11-minute journey beyond the Kármán line, the boundary of space.",
+        "Any Indian citizen can apply for the program by paying a nominal fee of approximately USD 2.50 for verification purposes."
       ]
     },
     {
       "date": "2024-07-03",
-      "topic": "",
-      "title": "",
+      "topic": "Sports",
+      "title": " Viswanathan Anand rang in own Number 10 – a 10th Leon Masters title, at age 54.",
       "points": [
-        ""
+        "At the Leon event, Anand competed against a former World Championship rival, one born the year he won his first Leon Masters title, and a third, a fellow Indian younger to him by over three decades",
+        "Anand beat Jaime Santos Latasa 3-1 in the finals to win his 10th title at the Leon Masters in Spain. Anand has been a world chess winner five times."
+      ]
+    },
+    {
+      "date": "2024-07-03",
+      "topic": "Sports",
+      "title": "India Dominates U23 Asian Wrestling Championship in Jordan",
+      "points": [
+        "The U23 Asian Wrestling Championships concluded with India topping the freestyle wrestling category, earning four gold, two silver, and two bronze medals. Abhimanyu, Jointy Kumar, Sahil Jaglan, and Anirudh Kumar were among the gold medalists, contributing to India’s historic performance at the tournament."
       ]
     },
     {
